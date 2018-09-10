@@ -1,0 +1,15 @@
+.btn-Margin {
+    margin: 10px;
+}
+
+fieldset {
+    margin: 2px;
+}
+
+legend {
+    border: solid 0.5px;
+}
+
+.marginDates {
+    margin-left: 2%;
+}
